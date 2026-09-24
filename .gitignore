@@ -23,6 +23,12 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+.idea/
+*.iml
+out/
+sales_history.txt
+inventory.csv
+
 ### VS Code ###
 .vscode/
 
